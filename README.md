@@ -36,12 +36,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevashishPathrabe&theme=radical" alt="DevashishPathrabe" />
 </p>
 
+
+<div>
+  
+  ![Snake animation](https://github.com/DevashishPathrabe/DevashishPathrabe/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <p align="center">
 <br>
 <img src="https://komarev.com/ghpvc/?username=DevashishPathrabe&color=red">
 </p>
-<div>
- 
-  ![Snake animation](https://github.com/DevashishPathrabe/DevashishPathrabe/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
