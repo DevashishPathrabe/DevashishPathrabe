@@ -1,8 +1,13 @@
 <div align="center" width="50">
   <img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
 </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Devashish Pathrabe</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+  <img src="Logo.svg" width="10000" height="300">
+</p>	
+<img src="waves.svg" width="100%" height="150">
+
+
 
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
