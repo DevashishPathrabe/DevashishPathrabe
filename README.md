@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center" width="10">
   <img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
 </div>
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
