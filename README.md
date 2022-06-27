@@ -1,7 +1,6 @@
-<div align="center" width="10">
-  <img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
+<div align="center">
+  Hi <img src="./assets/wave.gif" height='26' alt="Welcome!" />
 </div>
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">
   <img src="Logo.svg" width="10000" height="300">
 </p>	
