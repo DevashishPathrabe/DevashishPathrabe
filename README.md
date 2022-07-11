@@ -1,6 +1,6 @@
-<div align="center">
-  Hi <img src="./assets/wave.gif" height='26' alt="Welcome!" />
-</div>
+<p align="center">
+  <a href="#"> <img src="assets/welcome.svg"/> </a>
+</p>
 <p align="center">
   <img src="Logo.svg" width="10000" height="300">
 </p>	
