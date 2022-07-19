@@ -13,12 +13,12 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
-          USERNAME: ${{ github.DevashishPathrabe }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 250
       - name: Commit & Push
         run: |
-          git config user.name ${{ github.DevashishPathrabe }}
+          git config user.name ${{ github.repository_owner }}
           git config user.email devashishpathrabe@gmail.com
           git add -A .
           git commit -m "GitHub 3D Profile"
