@@ -48,5 +48,6 @@
 </div>
 <p align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=DevashishPathrabe&color=red">
+<img src="https://komarev.com/ghpvc/?username=DevashishPathrabe&color=brightgreen"> •
+<a href="https://user-badge.committers.top/india_private/DevashishPathrabe"><img src="https://user-badge.committers.top/india_private/DevashishPathrabe.svg"></a>
 </p>
