@@ -18,7 +18,7 @@ jobs:
           MAX_REPOS: 250
       - name: Commit & Push
         run: |
-          git config user.name ${{ github.Devashish Pathrabe }}
+          git config user.name ${{ github.DevashishPathrabe }}
           git config user.email devashishpathrabe@gmail.com
           git add -A .
           git commit -m "GitHub 3D Profile"
