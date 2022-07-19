@@ -36,6 +36,7 @@
 |-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=DevashishPathrabe&theme=chartreuse-dark)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevashishPathrabe&theme=merko" alt="DevashishPathrabe" />
 </p>
