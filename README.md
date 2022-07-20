@@ -6,6 +6,11 @@
 </p>	
 <img src="waves.svg" width="100%" height="150">
 
+<h3 align="center">
+  I like solving competitive coding problems, exploring new technologies, travelling and gaming.
+</h3>
+
+
 <p align="center">
 <img alt="Coder GIF" height=500 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </p>
