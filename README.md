@@ -7,7 +7,9 @@
 <img src="waves.svg" width="100%" height="150">
 
 <h3 align="center">
-  I like solving competitive coding problems, exploring new technologies, travelling and gaming.
+  I like solving competitive coding problems.<br />
+  I like to explore new technologies.<br />
+  I enjoy travelling and gaming.<br />
 </h3>
 
 
