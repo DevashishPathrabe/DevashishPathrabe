@@ -6,23 +6,10 @@
 </p>	
 <img src="waves.svg" width="100%" height="150">
 
-
-
-
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-  Connect with me:
-</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-<a href="https://twitter.com/DevashishPathr1" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevashishPathrabe" height="30" width="30" /></a>
-<a href="mailto:devashishpathrabe@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="DevashishPathrabe" height="30" width="30" /></a>
-<a href="https://codepen.io/devashish0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/devashish0301" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/devashish-pathrabe-b45a531b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devashish-pathrabe-b45a531b7/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/devashish.pathrabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devashish.pathrabe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/devashish_pathrabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devashish_pathrabe/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devashish0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/devashish0301" height="30" width="40" /></a>
-<a href="https://leetcode.com/devashish_pathrabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/devashish_pathrabe/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@devashishpathrabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@devashishpathrabe" height="30" width="40" /></a>
+<p align="center">
+<img alt="Coder GIF" height=500 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </p>
+
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
   Languages and Tools:
@@ -47,6 +34,22 @@
   ![Snake animation](https://github.com/DevashishPathrabe/DevashishPathrabe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+  Connect with me:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+<a href="https://twitter.com/DevashishPathr1" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevashishPathrabe" height="30" width="30" /></a>
+<a href="mailto:devashishpathrabe@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="DevashishPathrabe" height="30" width="30" /></a>
+<a href="https://codepen.io/devashish0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/devashish0301" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devashish-pathrabe-b45a531b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devashish-pathrabe-b45a531b7/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devashish.pathrabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devashish.pathrabe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devashish_pathrabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devashish_pathrabe/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/devashish0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/devashish0301" height="30" width="40" /></a>
+<a href="https://leetcode.com/devashish_pathrabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/devashish_pathrabe/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@devashishpathrabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@devashishpathrabe" height="30" width="40" /></a>
+</p>
+
 <p align="center">
 <br>
 <img src="https://komarev.com/ghpvc/?username=DevashishPathrabe&color=brightgreen"> •
