@@ -42,6 +42,9 @@
  
 </div>
 
+## GitHub Skyline
+<img src="Github Skyline.gif">
+
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
   Connect with me:
 </h3>
