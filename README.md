@@ -64,6 +64,12 @@
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
+<div align="center">
+  <p>Have a good day!</p>
+  <div>
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+  </div>
+</div>
 
 <p align="center">
 <br>
